@@ -1,0 +1,1 @@
+{"name":"spoken-score","version":"0.2.0","private":true,"type":"module","scripts":{"build":"python scripts/build.py","test":"node --test tests/*.test.mjs"}}

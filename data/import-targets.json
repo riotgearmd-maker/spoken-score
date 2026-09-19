@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "adriano-in-siria-pergolesi",
+    "title": "Adriano in siria",
+    "composer": "Giovanni Battista Pergolesi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/adrisiriap/adrisiriap.html",
+    "key": "adrisiriap",
+    "date": "25 ottobre 1734"
+  },
+  {
+    "id": "agrippina-handel",
+    "title": "Agrippina",
+    "composer": "George Frideric Handel",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/agrippina/agrippina.html",
+    "key": "agrippina",
+    "date": "26 dicembre 1709"
+  },
+  {
+    "id": "aida-verdi",
+    "title": "Aida",
+    "composer": "Giuseppe Verdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/aida/aida.html",
+    "key": "aida",
+    "date": "24 dicembre 1871"
+  },
+  {
+    "id": "l-ajo-nell-imbarazzo-donizetti",
+    "title": "L'ajo nell'imbarazzo",
+    "composer": "Gaetano Donizetti",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/aio/aio.html",
+    "key": "aio",
+    "date": "2 febbraio 1824"
+  },
+  {
+    "id": "alceste-gluck",
+    "title": "Alceste",
+    "composer": "Christoph Willibald Gluck",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/alceste/alceste.html",
+    "key": "alceste",
+    "date": "26 dicembre 1767"
+  },
+  {
+    "id": "alcina-handel",
+    "title": "Alcina",
+    "composer": "George Frideric Handel",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/alcina/alcina.html",
+    "key": "alcina",
+    "date": "16 aprile 1735"
+  },
+  {
+    "id": "amadigi-di-gaula-handel",
+    "title": "Amadigi di gaula",
+    "composer": "George Frideric Handel",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/amagaula/amagaula.html",
+    "key": "amagaula",
+    "date": "25 maggio 1715"
+  },
+  {
+    "id": "l-amico-fritz-mascagni",
+    "title": "L'amico fritz",
+    "composer": "Pietro Mascagni",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/amicofritz/amicofritz.html",
+    "key": "amicofritz",
+    "date": "31 ottobre 1891"
+  },
+  {
+    "id": "gli-amori-d-apollo-e-di-dafne-cavalli",
+    "title": "Gli amori d'apollo e di dafne",
+    "composer": "Francesco Cavalli",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/apodafne/apodafne.html",
+    "key": "apodafne",
+    "date": "carnevale 1640"
+  },
+  {
+    "id": "anna-bolena-donizetti",
+    "title": "Anna bolena",
+    "composer": "Gaetano Donizetti",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/annabol/annabol.html",
+    "key": "annabol",
+    "date": "26 dicembre 1830"
+  },
+  {
+    "id": "l-arianna-monteverdi",
+    "title": "L'arianna",
+    "composer": "Claudio Monteverdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/arianmv/arianmv.html",
+    "key": "arianmv",
+    "date": "28 maggio 1608"
+  },
+  {
+    "id": "ariodante-handel",
+    "title": "Ariodante",
+    "composer": "George Frideric Handel",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/ariodante/ariodante.html",
+    "key": "ariodante",
+    "date": "8 gennaio 1735"
+  },
+  {
+    "id": "armida-haydn",
+    "title": "Armida",
+    "composer": "Joseph Haydn",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/armida1784/armida1784.html",
+    "key": "armida1784",
+    "date": "26 febbraio 1784"
+  },
+  {
+    "id": "armida-rossini",
+    "title": "Armida",
+    "composer": "Gioachino Rossini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/armida1817/armida1817.html",
+    "key": "armida1817",
+    "date": "11 novembre 1817"
+  },
+  {
+    "id": "aroldo-verdi",
+    "title": "Aroldo",
+    "composer": "Giuseppe Verdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/aroldo/aroldo.html",
+    "key": "aroldo",
+    "date": "16 agosto 1857"
+  },
+  {
+    "id": "artemisia-cavalli",
+    "title": "Artemisia",
+    "composer": "Francesco Cavalli",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/artemisia/artemisia.html",
+    "key": "artemisia",
+    "date": "10 gennaio 1656"
+  },
+  {
+    "id": "ascanio-in-alba-mozart",
+    "title": "Ascanio in alba",
+    "composer": "Wolfgang Amadeus Mozart",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/ascanio/ascanio.html",
+    "key": "ascanio",
+    "date": "17 ottobre 1771"
+  },
+  {
+    "id": "l-atenaide-vivaldi",
+    "title": "L'atenaide",
+    "composer": "Antonio Vivaldi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/atenaide/atenaide.html",
+    "key": "atenaide",
+    "date": "28 dicembre 1728"
+  },
+  {
+    "id": "attila-verdi",
+    "title": "Attila",
+    "composer": "Giuseppe Verdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/attila_ts/attila_ts.html",
+    "key": "attila_ts",
+    "date": "17 marzo 1846"
+  },
+  {
+    "id": "un-ballo-in-maschera-verdi",
+    "title": "Un ballo in maschera",
+    "composer": "Giuseppe Verdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/balmasc/balmasc.html",
+    "key": "balmasc",
+    "date": "17 febbraio 1859"
+  },
+  {
+    "id": "il-barbiere-di-siviglia-rossini",
+    "title": "Il barbiere di siviglia",
+    "composer": "Gioachino Rossini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/barb_siv/barb_siv.html",
+    "key": "barb_siv",
+    "date": "20 febbraio 1816"
+  },
+  {
+    "id": "la-battaglia-di-legnano-verdi",
+    "title": "La battaglia di legnano",
+    "composer": "Giuseppe Verdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/blegnano/blegnano.html",
+    "key": "blegnano",
+    "date": "27 gennaio 1849"
+  },
+  {
+    "id": "beatrice-di-tenda-bellini",
+    "title": "Beatrice di tenda",
+    "composer": "Vincenzo Bellini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/beatrice/beatrice.html",
+    "key": "beatrice",
+    "date": "16 marzo 1833"
+  },
+  {
+    "id": "belisario-donizetti",
+    "title": "Belisario",
+    "composer": "Gaetano Donizetti",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/belis/belis.html",
+    "key": "belis",
+    "date": "4 febbraio 1836"
+  },
+  {
+    "id": "la-boheme-puccini",
+    "title": "La bohème",
+    "composer": "Giacomo Puccini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/boheme_p/boheme_p.html",
+    "key": "boheme_p",
+    "date": "1 febbraio 1896"
+  },
+  {
+    "id": "la-boheme-leoncavallo",
+    "title": "La bohème",
+    "composer": "Ruggero Leoncavallo",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/boheme_l/boheme_l.html",
+    "key": "boheme_l",
+    "date": "6 maggio 1897"
+  },
+  {
+    "id": "la-calisto-cavalli",
+    "title": "La calisto",
+    "composer": "Francesco Cavalli",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/calisto/calisto.html",
+    "key": "calisto",
+    "date": "28 novembre 1651"
+  },
+  {
+    "id": "la-cambiale-di-matrimonio-rossini",
+    "title": "La cambiale di matrimonio",
+    "composer": "Gioachino Rossini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/cambiale/cambiale.html",
+    "key": "cambiale",
+    "date": "3 novembre 1810"
+  },
+  {
+    "id": "il-campanello-donizetti",
+    "title": "Il campanello",
+    "composer": "Gaetano Donizetti",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/campanello/campanello.html",
+    "key": "campanello",
+    "date": "23 maggio 1837"
+  },
+  {
+    "id": "i-capuleti-e-i-montecchi-bellini",
+    "title": "I capuleti e i montecchi",
+    "composer": "Vincenzo Bellini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/capumon/capumon.html",
+    "key": "capumon",
+    "date": "11 marzo 1830"
+  },
+  {
+    "id": "cavalleria-rusticana-mascagni",
+    "title": "Cavalleria rusticana",
+    "composer": "Pietro Mascagni",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/cavrust/cavrust.html",
+    "key": "cavrust",
+    "date": "17 maggio 1890"
+  },
+  {
+    "id": "la-cenerentola-rossini",
+    "title": "La cenerentola",
+    "composer": "Gioachino Rossini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/cenere/cenere.html",
+    "key": "cenere",
+    "date": "25 gennaio 1817"
+  },
+  {
+    "id": "le-cinesi-gluck",
+    "title": "Le cinesi",
+    "composer": "Christoph Willibald Gluck",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/cinesi/cinesi.html",
+    "key": "cinesi",
+    "date": "24 settembre 1754"
+  },
+  {
+    "id": "la-clemenza-di-tito-mozart",
+    "title": "La clemenza di tito",
+    "composer": "Wolfgang Amadeus Mozart",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/cletito/cletito.html",
+    "key": "cletito",
+    "date": "6 settembre 1791"
+  },
+  {
+    "id": "le-convenienze-e-le-inconvenienze-teatrali-donizetti",
+    "title": "Le convenienze e le inconvenienze teatrali",
+    "composer": "Gaetano Donizetti",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/convinc/convinc.html",
+    "key": "convinc",
+    "date": "21 novembre 1827"
+  },
+  {
+    "id": "cosi-fan-tutte-mozart",
+    "title": "Così fan tutte",
+    "composer": "Wolfgang Amadeus Mozart",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/cotutte/cotutte.html",
+    "key": "cotutte",
+    "date": "26 gennaio 1790"
+  },
+  {
+    "id": "deidamia-handel",
+    "title": "Deidamia",
+    "composer": "George Frideric Handel",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/deidamia/deidamia.html",
+    "key": "deidamia",
+    "date": "10 gennaio 1741"
+  },
+  {
+    "id": "demetrio-e-polibio-rossini",
+    "title": "Demetrio e polibio",
+    "composer": "Gioachino Rossini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/dempol/dempol.html",
+    "key": "dempol",
+    "date": "18 maggio 1812"
+  },
+  {
+    "id": "la-didone-cavalli",
+    "title": "La didone",
+    "composer": "Francesco Cavalli",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/didone/didone.html",
+    "key": "didone",
+    "date": "carnevale 1641"
+  },
+  {
+    "id": "don-carlo-verdi",
+    "title": "Don carlo",
+    "composer": "Giuseppe Verdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/doncarlo1884/doncarlo1884.html",
+    "key": "doncarlo1884",
+    "date": "10 gennaio 1884"
+  },
+  {
+    "id": "don-giovanni-mozart",
+    "title": "Don giovanni",
+    "composer": "Wolfgang Amadeus Mozart",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/dongiov/dongiov.html",
+    "key": "dongiov",
+    "date": "29 ottobre 1787"
+  },
+  {
+    "id": "don-pasquale-donizetti",
+    "title": "Don pasquale",
+    "composer": "Gaetano Donizetti",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/don_pasq/don_pasq.html",
+    "key": "don_pasq",
+    "date": "3 gennaio 1843"
+  },
+  {
+    "id": "la-donna-del-lago-rossini",
+    "title": "La donna del lago",
+    "composer": "Gioachino Rossini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/donnalago/donnalago.html",
+    "key": "donnalago",
+    "date": "24 settembre 1819"
+  },
+  {
+    "id": "la-doriclea-cavalli",
+    "title": "La doriclea",
+    "composer": "Francesco Cavalli",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/doriclea/doriclea.html",
+    "key": "doriclea",
+    "date": "anno 1645"
+  },
+  {
+    "id": "i-due-foscari-verdi",
+    "title": "I due foscari",
+    "composer": "Giuseppe Verdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/2foscari/2foscari.html",
+    "key": "2foscari",
+    "date": "3 novembre 1844"
+  },
+  {
+    "id": "l-egisto-cavalli",
+    "title": "L'egisto",
+    "composer": "Francesco Cavalli",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/egisto/egisto.html",
+    "key": "egisto",
+    "date": "anno 1643"
+  },
+  {
+    "id": "l-elisir-d-amore-donizetti",
+    "title": "L'elisir d'amore",
+    "composer": "Gaetano Donizetti",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/eldam/eldam.html",
+    "key": "eldam",
+    "date": "12 maggio 1832"
+  },
+  {
+    "id": "l-ercole-amante-cavalli",
+    "title": "L'ercole amante",
+    "composer": "Francesco Cavalli",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/ercamante/ercamante.html",
+    "key": "ercamante",
+    "date": "7 febbraio 1662"
+  },
+  {
+    "id": "ermione-rossini",
+    "title": "Ermione",
+    "composer": "Gioachino Rossini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/ermione/ermione.html",
+    "key": "ermione",
+    "date": "27 marzo 1819"
+  },
+  {
+    "id": "ernani-verdi",
+    "title": "Ernani",
+    "composer": "Giuseppe Verdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/ernani/ernani.html",
+    "key": "ernani",
+    "date": "9 marzo 1844"
+  },
+  {
+    "id": "ezio-handel",
+    "title": "Ezio",
+    "composer": "George Frideric Handel",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/ezio_gh/ezio_gh.html",
+    "key": "ezio_gh",
+    "date": "15 gennaio 1732"
+  },
+  {
+    "id": "falstaff-verdi",
+    "title": "Falstaff",
+    "composer": "Giuseppe Verdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/falstaffv/falstaffv.html",
+    "key": "falstaffv",
+    "date": "9 febbraio 1893"
+  },
+  {
+    "id": "farnace-vivaldi",
+    "title": "Farnace",
+    "composer": "Antonio Vivaldi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/farnace/farnace.html",
+    "key": "farnace",
+    "date": "carnevale 1727"
+  },
+  {
+    "id": "la-fida-ninfa-vivaldi",
+    "title": "La fida ninfa",
+    "composer": "Antonio Vivaldi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/fidaninfa/fidaninfa.html",
+    "key": "fidaninfa",
+    "date": "6 gennaio 1732"
+  },
+  {
+    "id": "la-finta-giardiniera-mozart",
+    "title": "La finta giardiniera",
+    "composer": "Wolfgang Amadeus Mozart",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/fintagiar/fintagiar.html",
+    "key": "fintagiar",
+    "date": "13 gennaio 1775"
+  },
+  {
+    "id": "la-finta-semplice-mozart",
+    "title": "La finta semplice",
+    "composer": "Wolfgang Amadeus Mozart",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/fintasemplice/fintasemplice.html",
+    "key": "fintasemplice",
+    "date": "1 maggio 1769"
+  },
+  {
+    "id": "la-forza-del-destino-verdi",
+    "title": "La forza del destino",
+    "composer": "Giuseppe Verdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/forzades/forzades.html",
+    "key": "forzades",
+    "date": "27 febbraio 1869"
+  },
+  {
+    "id": "la-gazza-ladra-rossini",
+    "title": "La gazza ladra",
+    "composer": "Gioachino Rossini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/gazza/gazza.html",
+    "key": "gazza",
+    "date": "31 maggio 1817"
+  },
+  {
+    "id": "la-gazzetta-rossini",
+    "title": "La gazzetta",
+    "composer": "Gioachino Rossini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/gazzetta/gazzetta.html",
+    "key": "gazzetta",
+    "date": "26 settembre 1816"
+  },
+  {
+    "id": "gianni-da-calais-donizetti",
+    "title": "Gianni da calais",
+    "composer": "Gaetano Donizetti",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/gcalais/gcalais.html",
+    "key": "gcalais",
+    "date": "2 agosto 1828"
+  },
+  {
+    "id": "il-giasone-cavalli",
+    "title": "Il giasone",
+    "composer": "Francesco Cavalli",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/giasone/giasone.html",
+    "key": "giasone",
+    "date": "5 gennaio 1649"
+  },
+  {
+    "id": "la-gioconda-ponchielli",
+    "title": "La gioconda",
+    "composer": "Amilcare Ponchielli",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/gioconda/gioconda.html",
+    "key": "gioconda",
+    "date": "8 aprile 1876"
+  },
+  {
+    "id": "giovanna-d-arco-verdi",
+    "title": "Giovanna d'arco",
+    "composer": "Giuseppe Verdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/giodarco/giodarco.html",
+    "key": "giodarco",
+    "date": "15 febbraio 1845"
+  },
+  {
+    "id": "giulio-cesare-in-egitto-handel",
+    "title": "Giulio cesare in egitto",
+    "composer": "George Frideric Handel",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/giulio_ces/giulio_ces.html",
+    "key": "giulio_ces",
+    "date": "20 febbraio 1724"
+  },
+  {
+    "id": "griselda-vivaldi",
+    "title": "Griselda",
+    "composer": "Antonio Vivaldi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/griseldazg/griseldazg.html",
+    "key": "griseldazg",
+    "date": "18 maggio 1735"
+  },
+  {
+    "id": "idomeneo-mozart",
+    "title": "Idomeneo",
+    "composer": "Wolfgang Amadeus Mozart",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/idomeneo/idomeneo.html",
+    "key": "idomeneo",
+    "date": "29 gennaio 1781"
+  },
+  {
+    "id": "l-incoronazione-di-dario-vivaldi",
+    "title": "L'incoronazione di dario",
+    "composer": "Antonio Vivaldi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/incorodario/incorodario.html",
+    "key": "incorodario",
+    "date": "23 gennaio 1717"
+  },
+  {
+    "id": "l-incoronazione-di-poppea-monteverdi",
+    "title": "L'incoronazione di poppea",
+    "composer": "Claudio Monteverdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/incopop/incopop.html",
+    "key": "incopop",
+    "date": "carnevale 1643"
+  },
+  {
+    "id": "l-inganno-felice-rossini",
+    "title": "L'inganno felice",
+    "composer": "Gioachino Rossini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/ingafel/ingafel.html",
+    "key": "ingafel",
+    "date": "8 gennaio 1812"
+  },
+  {
+    "id": "iris-mascagni",
+    "title": "Iris",
+    "composer": "Pietro Mascagni",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/iris/iris.html",
+    "key": "iris",
+    "date": "22 novembre 1898"
+  },
+  {
+    "id": "l-isola-disabitata-haydn",
+    "title": "L'isola disabitata",
+    "composer": "Joseph Haydn",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/isodis/isodis.html",
+    "key": "isodis",
+    "date": "6 dicembre 1779"
+  },
+  {
+    "id": "l-italiana-in-algeri-rossini",
+    "title": "L'italiana in algeri",
+    "composer": "Gioachino Rossini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/italgeri/italgeri.html",
+    "key": "italgeri",
+    "date": "22 maggio 1813"
+  },
+  {
+    "id": "linda-di-chamounix-donizetti",
+    "title": "Linda di chamounix",
+    "composer": "Gaetano Donizetti",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/lindacham/lindacham.html",
+    "key": "lindacham",
+    "date": "19 maggio 1842"
+  },
+  {
+    "id": "i-lituani-ponchielli",
+    "title": "I lituani",
+    "composer": "Amilcare Ponchielli",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/lituani/lituani.html",
+    "key": "lituani",
+    "date": "6 marzo 1875"
+  },
+  {
+    "id": "livietta-e-tracollo-pergolesi",
+    "title": "Livietta e tracollo",
+    "composer": "Giovanni Battista Pergolesi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/livietta/livietta.html",
+    "key": "livietta",
+    "date": "25 ottobre 1734"
+  },
+  {
+    "id": "i-lombardi-alla-prima-crociata-verdi",
+    "title": "I lombardi alla prima crociata",
+    "composer": "Giuseppe Verdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/lombacro/lombacro.html",
+    "key": "lombacro",
+    "date": "11 febbraio 1843"
+  },
+  {
+    "id": "lucia-di-lammermoor-donizetti",
+    "title": "Lucia di lammermoor",
+    "composer": "Gaetano Donizetti",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/lucialam/lucialam.html",
+    "key": "lucialam",
+    "date": "26 settembre 1835"
+  },
+  {
+    "id": "lucio-silla-mozart",
+    "title": "Lucio silla",
+    "composer": "Wolfgang Amadeus Mozart",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/silla/silla.html",
+    "key": "silla",
+    "date": "26 dicembre 1772"
+  },
+  {
+    "id": "lucrezia-borgia-donizetti",
+    "title": "Lucrezia borgia",
+    "composer": "Gaetano Donizetti",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/lucrezia/lucrezia.html",
+    "key": "lucrezia",
+    "date": "26 dicembre 1833"
+  },
+  {
+    "id": "luisa-miller-verdi",
+    "title": "Luisa miller",
+    "composer": "Giuseppe Verdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/luisamil/luisamil.html",
+    "key": "luisamil",
+    "date": "8 dicembre 1849"
+  },
+  {
+    "id": "macbeth-verdi",
+    "title": "Macbeth",
+    "composer": "Giuseppe Verdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/macbeth/macbeth.html",
+    "key": "macbeth",
+    "date": "14 marzo 1847"
+  },
+  {
+    "id": "madama-butterfly-puccini",
+    "title": "Madama butterfly",
+    "composer": "Giacomo Puccini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/butterfly/butterfly.html",
+    "key": "butterfly",
+    "date": "28 maggio 1904"
+  },
+  {
+    "id": "manon-lescaut-puccini",
+    "title": "Manon lescaut",
+    "composer": "Giacomo Puccini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/manonles/manonles.html",
+    "key": "manonles",
+    "date": "1 febbraio 1893"
+  },
+  {
+    "id": "maometto-ii-rossini",
+    "title": "Maometto ii",
+    "composer": "Gioachino Rossini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/maomet2/maomet2.html",
+    "key": "maomet2",
+    "date": "3 dicembre 1820"
+  },
+  {
+    "id": "maria-di-rohan-donizetti",
+    "title": "Maria di rohan",
+    "composer": "Gaetano Donizetti",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/marohan/marohan.html",
+    "key": "marohan",
+    "date": "5 giugno 1843"
+  },
+  {
+    "id": "maria-stuarda-donizetti",
+    "title": "Maria stuarda",
+    "composer": "Gaetano Donizetti",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/mastuarda/mastuarda.html",
+    "key": "mastuarda",
+    "date": "30 dicembre 1835"
+  },
+  {
+    "id": "marino-faliero-donizetti",
+    "title": "Marino faliero",
+    "composer": "Gaetano Donizetti",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/marino/marino.html",
+    "key": "marino",
+    "date": "12 marzo 1835"
+  },
+  {
+    "id": "marion-delorme-ponchielli",
+    "title": "Marion delorme",
+    "composer": "Amilcare Ponchielli",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/mariondel/mariondel.html",
+    "key": "mariondel",
+    "date": "17 marzo 1885"
+  },
+  {
+    "id": "i-masnadieri-verdi",
+    "title": "I masnadieri",
+    "composer": "Giuseppe Verdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/masnadieri/masnadieri.html",
+    "key": "masnadieri",
+    "date": "22 luglio 1847"
+  },
+  {
+    "id": "i-medici-leoncavallo",
+    "title": "I medici",
+    "composer": "Ruggero Leoncavallo",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/medici/medici.html",
+    "key": "medici",
+    "date": "10 novembre 1893"
+  },
+  {
+    "id": "mefistofele-boito",
+    "title": "Mefistofele",
+    "composer": "Arrigo Boito",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/mefis/mefis.html",
+    "key": "mefis",
+    "date": "4 ottobre 1875"
+  },
+  {
+    "id": "mercurio-e-marte-monteverdi",
+    "title": "Mercurio e marte",
+    "composer": "Claudio Monteverdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/mercumarte/mercumarte.html",
+    "key": "mercumarte",
+    "date": "21 dicembre 1628"
+  },
+  {
+    "id": "mitridate-re-di-ponto-mozart",
+    "title": "Mitridate re di ponto",
+    "composer": "Wolfgang Amadeus Mozart",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/mitriponto/mitriponto.html",
+    "key": "mitriponto",
+    "date": "26 dicembre 1770"
+  },
+  {
+    "id": "il-mondo-della-luna-haydn",
+    "title": "Il mondo della luna",
+    "composer": "Joseph Haydn",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/mluna/mluna.html",
+    "key": "mluna",
+    "date": "3 agosto 1777"
+  },
+  {
+    "id": "mose-in-egitto-rossini",
+    "title": "Mosè in egitto",
+    "composer": "Gioachino Rossini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/mosegi/mosegi.html",
+    "key": "mosegi",
+    "date": "5 marzo 1818"
+  },
+  {
+    "id": "motezuma-vivaldi",
+    "title": "Motezuma",
+    "composer": "Antonio Vivaldi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/motezuma/motezuma.html",
+    "key": "motezuma",
+    "date": "14 novembre 1733"
+  },
+  {
+    "id": "muzio-scevola-cavalli",
+    "title": "Muzio scevola",
+    "composer": "Francesco Cavalli",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/musceva/musceva.html",
+    "key": "musceva",
+    "date": "26 gennaio 1665"
+  },
+  {
+    "id": "nabucco-verdi",
+    "title": "Nabucco",
+    "composer": "Giuseppe Verdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/nabucco/nabucco.html",
+    "key": "nabucco",
+    "date": "9 marzo 1842"
+  },
+  {
+    "id": "norma-bellini",
+    "title": "Norma",
+    "composer": "Vincenzo Bellini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/norma/norma.html",
+    "key": "norma",
+    "date": "26 dicembre 1831"
+  },
+  {
+    "id": "le-nozze-di-figaro-mozart",
+    "title": "Le nozze di figaro",
+    "composer": "Wolfgang Amadeus Mozart",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/nozzefig/nozzefig.html",
+    "key": "nozzefig",
+    "date": "1 maggio 1786"
+  },
+  {
+    "id": "oberto-conte-di-san-bonifacio-verdi",
+    "title": "Oberto conte di san bonifacio",
+    "composer": "Giuseppe Verdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/oberto/oberto.html",
+    "key": "oberto",
+    "date": "17 novembre 1839"
+  },
+  {
+    "id": "l-occasione-fa-il-ladro-rossini",
+    "title": "L'occasione fa il ladro",
+    "composer": "Gioachino Rossini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/occaladro/occaladro.html",
+    "key": "occaladro",
+    "date": "24 novembre 1812"
+  },
+  {
+    "id": "l-orfeo-monteverdi",
+    "title": "L'orfeo",
+    "composer": "Claudio Monteverdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/orfeo/orfeo.html",
+    "key": "orfeo",
+    "date": "24 febbraio 1607"
+  },
+  {
+    "id": "orfeo-ed-euridice-gluck",
+    "title": "Orfeo, ed euridice",
+    "composer": "Christoph Willibald Gluck",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/orf_eur/orf_eur.html",
+    "key": "orf_eur",
+    "date": "5 ottobre 1762"
+  },
+  {
+    "id": "l-oristeo-cavalli",
+    "title": "L'oristeo",
+    "composer": "Francesco Cavalli",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/oristeo/oristeo.html",
+    "key": "oristeo",
+    "date": "carnevale 1651"
+  },
+  {
+    "id": "orlando-handel",
+    "title": "Orlando",
+    "composer": "George Frideric Handel",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/orlando/orlando.html",
+    "key": "orlando",
+    "date": "27 gennaio 1733"
+  },
+  {
+    "id": "orlando-furioso-vivaldi",
+    "title": "Orlando furioso",
+    "composer": "Antonio Vivaldi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/orlandofur/orlandofur.html",
+    "key": "orlandofur",
+    "date": "10 novembre 1727"
+  },
+  {
+    "id": "l-ormindo-cavalli",
+    "title": "L'ormindo",
+    "composer": "Francesco Cavalli",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/ormindo/ormindo.html",
+    "key": "ormindo",
+    "date": "carnevale 1644"
+  },
+  {
+    "id": "otello-rossini",
+    "title": "Otello",
+    "composer": "Gioachino Rossini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/otelros/otelros.html",
+    "key": "otelros",
+    "date": "4 dicembre 1816"
+  },
+  {
+    "id": "otello-verdi",
+    "title": "Otello",
+    "composer": "Giuseppe Verdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/otello/otello.html",
+    "key": "otello",
+    "date": "5 febbraio 1887"
+  },
+  {
+    "id": "i-pagliacci-leoncavallo",
+    "title": "I pagliacci",
+    "composer": "Ruggero Leoncavallo",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/pagliacci/pagliacci.html",
+    "key": "pagliacci",
+    "date": "21 maggio 1892"
+  },
+  {
+    "id": "paride-e-elena-gluck",
+    "title": "Paride e elena",
+    "composer": "Christoph Willibald Gluck",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/parele/parele.html",
+    "key": "parele",
+    "date": "3 novembre 1770"
+  },
+  {
+    "id": "parisina-donizetti",
+    "title": "Parisina",
+    "composer": "Gaetano Donizetti",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/parisina_gd/parisina_gd.html",
+    "key": "parisina_gd",
+    "date": "17 marzo 1833"
+  },
+  {
+    "id": "parisina-mascagni",
+    "title": "Parisina",
+    "composer": "Pietro Mascagni",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/parisina1913/parisina1913.html",
+    "key": "parisina1913",
+    "date": "15 gennaio 1913"
+  },
+  {
+    "id": "pia-de-tolomei-donizetti",
+    "title": "Pia de' tolomei",
+    "composer": "Gaetano Donizetti",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/piatolo/piatolo.html",
+    "key": "piatolo",
+    "date": "18 febbraio 1837"
+  },
+  {
+    "id": "la-pietra-del-paragone-rossini",
+    "title": "La pietra del paragone",
+    "composer": "Gioachino Rossini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/pietrapar/pietrapar.html",
+    "key": "pietrapar",
+    "date": "26 settembre 1812"
+  },
+  {
+    "id": "il-pirata-bellini",
+    "title": "Il pirata",
+    "composer": "Vincenzo Bellini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/pirata/pirata.html",
+    "key": "pirata",
+    "date": "27 ottobre 1827"
+  },
+  {
+    "id": "poliuto-donizetti",
+    "title": "Poliuto",
+    "composer": "Gaetano Donizetti",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/poliuto/poliuto.html",
+    "key": "poliuto",
+    "date": "30 novembre 1848"
+  },
+  {
+    "id": "poro-re-dell-indie-handel",
+    "title": "Poro, re dell'indie",
+    "composer": "George Frideric Handel",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/poroindie/poroindie.html",
+    "key": "poroindie",
+    "date": "2 febbraio 1731"
+  },
+  {
+    "id": "i-puritani-bellini",
+    "title": "I puritani",
+    "composer": "Vincenzo Bellini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/puritani/puritani.html",
+    "key": "puritani",
+    "date": "24 gennaio 1835"
+  },
+  {
+    "id": "il-re-pastore-mozart",
+    "title": "Il re pastore",
+    "composer": "Wolfgang Amadeus Mozart",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/repastore/repastore.html",
+    "key": "repastore",
+    "date": "23 aprile 1775"
+  },
+  {
+    "id": "rigoletto-verdi",
+    "title": "Rigoletto",
+    "composer": "Giuseppe Verdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/rigoletto/rigoletto.html",
+    "key": "rigoletto",
+    "date": "11 marzo 1851"
+  },
+  {
+    "id": "rinaldo-handel",
+    "title": "Rinaldo",
+    "composer": "George Frideric Handel",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/rinaldo/rinaldo.html",
+    "key": "rinaldo",
+    "date": "24 febbraio 1711"
+  },
+  {
+    "id": "il-ritorno-di-ulisse-in-patria-monteverdi",
+    "title": "Il ritorno di ulisse in patria",
+    "composer": "Claudio Monteverdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/ritulipa/ritulipa.html",
+    "key": "ritulipa",
+    "date": "anno 1640"
+  },
+  {
+    "id": "roberto-devereux-donizetti",
+    "title": "Roberto devereux",
+    "composer": "Gaetano Donizetti",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/robdev/robdev.html",
+    "key": "robdev",
+    "date": "28 ottobre 1837"
+  },
+  {
+    "id": "rodelinda-handel",
+    "title": "Rodelinda",
+    "composer": "George Frideric Handel",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/rodelinda/rodelinda.html",
+    "key": "rodelinda",
+    "date": "13 febbraio 1725"
+  },
+  {
+    "id": "la-rondine-puccini",
+    "title": "La rondine",
+    "composer": "Giacomo Puccini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/rondine/rondine.html",
+    "key": "rondine",
+    "date": "27 marzo 1917"
+  },
+  {
+    "id": "la-rosinda-cavalli",
+    "title": "La rosinda",
+    "composer": "Francesco Cavalli",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/rosinda/rosinda.html",
+    "key": "rosinda",
+    "date": "carnevale 1651"
+  },
+  {
+    "id": "la-salustia-pergolesi",
+    "title": "La salustia",
+    "composer": "Giovanni Battista Pergolesi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/salustia/salustia.html",
+    "key": "salustia",
+    "date": "gennaio 1732"
+  },
+  {
+    "id": "la-scala-di-seta-rossini",
+    "title": "La scala di seta",
+    "composer": "Gioachino Rossini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/scalaseta/scalaseta.html",
+    "key": "scalaseta",
+    "date": "9 maggio 1812"
+  },
+  {
+    "id": "scipione-handel",
+    "title": "Scipione",
+    "composer": "George Frideric Handel",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/scipione/scipione.html",
+    "key": "scipione",
+    "date": "12 marzo 1726"
+  },
+  {
+    "id": "semiramide-rossini",
+    "title": "Semiramide",
+    "composer": "Gioachino Rossini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/semira/semira.html",
+    "key": "semira",
+    "date": "3 febbraio 1823"
+  },
+  {
+    "id": "serse-handel",
+    "title": "Serse",
+    "composer": "George Frideric Handel",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/serse/serse.html",
+    "key": "serse",
+    "date": "15 aprile 1738"
+  },
+  {
+    "id": "la-serva-padrona-pergolesi",
+    "title": "La serva padrona",
+    "composer": "Giovanni Battista Pergolesi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/servapad/servapad.html",
+    "key": "servapad",
+    "date": "5 settembre 1733"
+  },
+  {
+    "id": "il-signor-bruschino-rossini",
+    "title": "Il signor bruschino",
+    "composer": "Gioachino Rossini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/bruschino/bruschino.html",
+    "key": "bruschino",
+    "date": "27 gennaio 1813"
+  },
+  {
+    "id": "silvano-mascagni",
+    "title": "Silvano",
+    "composer": "Pietro Mascagni",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/silvano/silvano.html",
+    "key": "silvano",
+    "date": "25 marzo 1895"
+  },
+  {
+    "id": "simon-boccanegra-verdi-boccanegra1857",
+    "title": "Simon boccanegra",
+    "composer": "Giuseppe Verdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/boccanegra1857/boccanegra1857.html",
+    "key": "boccanegra1857",
+    "date": "12 marzo 1857"
+  },
+  {
+    "id": "simon-boccanegra-verdi-boccanegra1881",
+    "title": "Simon boccanegra",
+    "composer": "Giuseppe Verdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/boccanegra1881/boccanegra1881.html",
+    "key": "boccanegra1881",
+    "date": "24 marzo 1881"
+  },
+  {
+    "id": "siroe-re-di-persia-handel",
+    "title": "Siroe, re di persia",
+    "composer": "George Frideric Handel",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/siroe_gh/siroe_gh.html",
+    "key": "siroe_gh",
+    "date": "17 febbraio 1728"
+  },
+  {
+    "id": "la-sonnambula-bellini",
+    "title": "La sonnambula",
+    "composer": "Vincenzo Bellini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/sonnam/sonnam.html",
+    "key": "sonnam",
+    "date": "6 marzo 1831"
+  },
+  {
+    "id": "lo-speziale-haydn",
+    "title": "Lo speziale",
+    "composer": "Joseph Haydn",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/speziale/speziale.html",
+    "key": "speziale",
+    "date": "autunno 1768"
+  },
+  {
+    "id": "la-statira-cavalli",
+    "title": "La statira",
+    "composer": "Francesco Cavalli",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/statira/statira.html",
+    "key": "statira",
+    "date": "18 gennaio 1655"
+  },
+  {
+    "id": "stiffelio-verdi",
+    "title": "Stiffelio",
+    "composer": "Giuseppe Verdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/stiffelio/stiffelio.html",
+    "key": "stiffelio",
+    "date": "16 novembre 1850"
+  },
+  {
+    "id": "la-straniera-bellini",
+    "title": "La straniera",
+    "composer": "Vincenzo Bellini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/straniera/straniera.html",
+    "key": "straniera",
+    "date": "14 febbraio 1829"
+  },
+  {
+    "id": "tamerlano-handel",
+    "title": "Tamerlano",
+    "composer": "George Frideric Handel",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/tamerlano/tamerlano.html",
+    "key": "tamerlano",
+    "date": "31 ottobre 1724"
+  },
+  {
+    "id": "tancredi-rossini",
+    "title": "Tancredi",
+    "composer": "Gioachino Rossini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/tancredi/tancredi.html",
+    "key": "tancredi",
+    "date": "6 febbraio 1813"
+  },
+  {
+    "id": "teuzzone-vivaldi",
+    "title": "Teuzzone",
+    "composer": "Antonio Vivaldi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/teuzzone/teuzzone.html",
+    "key": "teuzzone",
+    "date": "carnevale 1719"
+  },
+  {
+    "id": "tito-manlio-vivaldi",
+    "title": "Tito manlio",
+    "composer": "Antonio Vivaldi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/titomanlio/titomanlio.html",
+    "key": "titomanlio",
+    "date": "carnevale 1719"
+  },
+  {
+    "id": "il-titone-cavalli",
+    "title": "Il titone",
+    "composer": "Francesco Cavalli",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/titone/titone.html",
+    "key": "titone",
+    "date": "anno 1645"
+  },
+  {
+    "id": "torquato-tasso-donizetti",
+    "title": "Torquato tasso",
+    "composer": "Gaetano Donizetti",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/torquato/torquato.html",
+    "key": "torquato",
+    "date": "9 settembre 1833"
+  },
+  {
+    "id": "tosca-puccini",
+    "title": "Tosca",
+    "composer": "Giacomo Puccini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/tosca/tosca.html",
+    "key": "tosca",
+    "date": "14 gennaio 1900"
+  },
+  {
+    "id": "la-traviata-verdi",
+    "title": "La traviata",
+    "composer": "Giuseppe Verdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/traviata/traviata.html",
+    "key": "traviata",
+    "date": "6 marzo 1853"
+  },
+  {
+    "id": "il-trovatore-verdi",
+    "title": "Il trovatore",
+    "composer": "Giuseppe Verdi",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/trovatore/trovatore.html",
+    "key": "trovatore",
+    "date": "19 gennaio 1853"
+  },
+  {
+    "id": "il-turco-in-italia-rossini",
+    "title": "Il turco in italia",
+    "composer": "Gioachino Rossini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/turcoi/turcoi.html",
+    "key": "turcoi",
+    "date": "14 agosto 1814"
+  },
+  {
+    "id": "ugo-conte-di-parigi-donizetti",
+    "title": "Ugo conte di parigi",
+    "composer": "Gaetano Donizetti",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/ugoparigi/ugoparigi.html",
+    "key": "ugoparigi",
+    "date": "13 marzo 1832"
+  },
+  {
+    "id": "il-viaggio-a-reims-rossini",
+    "title": "Il viaggio a reims",
+    "composer": "Gioachino Rossini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/viaggioreims/viaggioreims.html",
+    "key": "viaggioreims",
+    "date": "19 giugno 1825"
+  },
+  {
+    "id": "le-villi-puccini",
+    "title": "Le villi",
+    "composer": "Giacomo Puccini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/villi/villi.html",
+    "key": "villi",
+    "date": "31 maggio 1884"
+  },
+  {
+    "id": "xerse-cavalli",
+    "title": "Xerse",
+    "composer": "Francesco Cavalli",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/xerse/xerse.html",
+    "key": "xerse",
+    "date": "12 febbraio 1654"
+  },
+  {
+    "id": "zaira-bellini",
+    "title": "Zaira",
+    "composer": "Vincenzo Bellini",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/zaira/zaira.html",
+    "key": "zaira",
+    "date": "16 maggio 1829"
+  },
+  {
+    "id": "zaza-leoncavallo",
+    "title": "Zazà",
+    "composer": "Ruggero Leoncavallo",
+    "language": "Italian",
+    "lang": "it-IT",
+    "url": "https://www.librettidopera.it/zaza/zaza.html",
+    "key": "zaza",
+    "date": "10 novembre 1900"
+  }
+]

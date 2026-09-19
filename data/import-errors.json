@@ -1,0 +1,15 @@
+[
+  {
+    "source": {
+      "id": "i-masnadieri-verdi",
+      "title": "I masnadieri",
+      "composer": "Giuseppe Verdi",
+      "language": "Italian",
+      "lang": "it-IT",
+      "url": "https://www.librettidopera.it/masnadieri/masnadieri.html",
+      "key": "masnadieri",
+      "date": "22 luglio 1847"
+    },
+    "error": "('I masnadieri', 'no structured text')"
+  }
+]

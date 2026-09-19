@@ -1,0 +1,55 @@
+{
+  "operaEditions": 192,
+  "individualTexts": 26,
+  "composers": [
+    "Adolphe Adam",
+    "Alexander Borodin",
+    "Amilcare Ponchielli",
+    "Antonio Vivaldi",
+    "Antonín Dvořák",
+    "Arrigo Boito",
+    "Bedřich Smetana",
+    "Camille Saint-Saëns",
+    "Carl Maria von Weber",
+    "Charles Gounod",
+    "Christoph Willibald Gluck",
+    "Claude Debussy",
+    "Claudio Monteverdi",
+    "Francesco Cavalli",
+    "Gaetano Donizetti",
+    "George Frideric Handel",
+    "Georges Bizet",
+    "Giacomo Puccini",
+    "Gioachino Rossini",
+    "Giovanni Battista Pergolesi",
+    "Giuseppe Verdi",
+    "Henry Purcell",
+    "Jacques Offenbach",
+    "Joseph Haydn",
+    "Ludwig van Beethoven",
+    "Pietro Mascagni",
+    "Pyotr Ilyich Tchaikovsky",
+    "Richard Wagner",
+    "Ruggero Leoncavallo",
+    "Vincenzo Bellini",
+    "Wolfgang Amadeus Mozart"
+  ],
+  "passages": 74022,
+  "exhaustive": false,
+  "omittedImports": [
+    {
+      "source": {
+        "id": "i-masnadieri-verdi",
+        "title": "I masnadieri",
+        "composer": "Giuseppe Verdi",
+        "language": "Italian",
+        "lang": "it-IT",
+        "url": "https://www.librettidopera.it/masnadieri/masnadieri.html",
+        "key": "masnadieri",
+        "date": "22 luglio 1847"
+      },
+      "error": "('I masnadieri', 'no structured text')"
+    }
+  ],
+  "note": "This release imports available historical libretti and selected public-domain art-song texts. It is not an exhaustive catalogue."
+}
